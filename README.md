@@ -7,4 +7,3 @@
 * [Weird Algorithm]
 * [Missing Number]
 # Sorting and Searching <a id='Sorting-and-Searching'></a>
-* [Bubble Sort]
